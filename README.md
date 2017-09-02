@@ -1,6 +1,6 @@
 # AngularTest
 
-[![NPM version](https://img.shields.io/badge/npm-v5.3.0-blue.svg)](https://www.npmjs.org/package/brick.js)
+[![npm](https://img.shields.io/badge/npm-v5.3.0-blue.svg)]()
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
