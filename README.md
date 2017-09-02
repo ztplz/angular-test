@@ -1,9 +1,7 @@
 # AngularTest
 
 [![npm](https://img.shields.io/badge/npm-v5.3.0-blue.svg)]()
-
 [![Build Status](https://travis-ci.org/ztplz/angular-test.svg?branch=master)](https://travis-ci.org/ztplz/angular-test)
-
 [![Coverage Status](https://coveralls.io/repos/github/ztplz/angular-test/badge.svg?branch=master)](https://coveralls.io/github/ztplz/angular-test?branch=master)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
